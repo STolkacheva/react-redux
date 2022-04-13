@@ -1,8 +1,5 @@
-## DEMO
-
-
-Redux
-===
+## DEMO Redux
+https://stolkacheva.github.io/react-redux/
 
 Редактирование
 ===
